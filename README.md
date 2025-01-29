@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome to My Project
 
-<!--
-**KalnBrs/KalnBrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Kaelan Brose**, a high school sophomore with a passion for programming. I've been coding since 2019 and have experience with **Python, HTML, CSS**, and I'm currently learning **Java** and **JavaScript**. This project is a showcase of my skills and what I've learned so far.
 
-Here are some ideas to get you started:
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- **Python**: My first programming language and the one I'm most comfortable with. I've used it for various projects, including automation scripts, web scraping, and simple web applications.
+- **HTML & CSS**: I use these to create and style web pages. I enjoy designing user-friendly and visually appealing websites.
+- **Java**: Currently learning this language to understand object-oriented programming better and to create more complex applications.
+- **JavaScript**: Also learning this to enhance my web development skills, making websites more interactive and dynamic.
+
+## Projects
+
+### Project 1: Basketball Stat Tracker
+- **Description**: This is a application to keep track of stats and to automate the graphics process for sports broadcasts
+- **Technologies Used**: Python
+- **Link**: [Stat Tracker](https://github.com/KalnBrs/Sports-Stat-Tracker)
+
+### Project 2: Buisness Website
+- **Description**: This is a website built from a design from a SkillsUSA Competition
+- **Technologies Used**: HTML, CSS
+- **Link**: [Buisness Website](https://github.com/KalnBrs/Skills-USA-Project)
+
+## Learning Goals
+- **Master Java and JavaScript**: I aim to become proficient in these languages to enhance my web development and software engineering skills.
+- **Explore New Technologies**: I'm always eager to learn new frameworks and tools that can help me build better projects.
+- **Contribute to Open Source**: I want to start contributing to open-source projects to collaborate with other developers and learn from their experiences.
+
+## Contact Me
+Feel free to reach out to me if you have any questions, suggestions, or just want to chat about programming!
+
+- **Email**: [kaelanbrs@example.com](mailto:kaelanbrs@example.com)
+- **GitHub**: [My GitHub Profile](https://github.com/KalnBrs)
+
+Thank you for visiting my project repository!

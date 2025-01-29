@@ -30,7 +30,7 @@ Hi there! I'm **Kaelan Brose**, a high school sophomore with a passion for progr
 ## Contact Me
 Feel free to reach out to me if you have any questions, suggestions, or just want to chat about programming!
 
-- **Email**: [kaelanbrs@example.com](mailto:kaelanbrs@example.com)
+- **Email**: [kaelanbrs@gmail.com](mailto:kaelanbrs@gmail.com)
 - **GitHub**: [My GitHub Profile](https://github.com/KalnBrs)
 
 Thank you for visiting my project repository!

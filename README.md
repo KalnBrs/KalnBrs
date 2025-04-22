@@ -8,7 +8,7 @@ Hi there! I'm **Kaelan Brose**, a high school sophomore with a passion for progr
 - **Python**: My first programming language and the one I'm most comfortable with. I've used it for various projects, including automation scripts, web scraping, and simple web applications.
 - **HTML & CSS**: I use these to create and style web pages. I enjoy designing user-friendly and visually appealing websites.
 - **Java**: Currently learning this language to understand object-oriented programming better and to create more complex applications.
-- **JavaScript**: Also learning this to enhance my web development skills, making websites more interactive and dynamic.
+- **JavaScript**: Learning this language to enhance my web development skills, making websites more interactive and dynamic.
 
 ## Projects
 

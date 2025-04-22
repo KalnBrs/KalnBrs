@@ -23,7 +23,7 @@ Hi there! I'm **Kaelan Brose**, a high school sophomore with a passion for progr
 - **Link**: [Buisness Website](https://github.com/KalnBrs/Skills-USA-Project)
 
 ### Project 3: To Do App
-- **Description**: This is a simple to do app that has add, remove, edit, and search functionality
+- **Description**: This is a simple to do app that has add, remove, edit, and search functionality, all saved in local storage
 - **Technologies Used**: HTML, CSS, JavaScript
 - **Link**: [To Do App](https://github.com/KalnBrs/To-Do-App)
 

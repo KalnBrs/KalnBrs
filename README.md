@@ -22,6 +22,11 @@ Hi there! I'm **Kaelan Brose**, a high school sophomore with a passion for progr
 - **Technologies Used**: HTML, CSS
 - **Link**: [Buisness Website](https://github.com/KalnBrs/Skills-USA-Project)
 
+### Project 3: To Do App
+- **Description**: This is a simple to do app that has add, remove, edit, and search functionality
+- **Technologies Used**: HTML, CSS, JavaScript
+- **Link**: [To Do App](https://github.com/KalnBrs/To-Do-App)
+
 ## Learning Goals
 - **Master Java and JavaScript**: I aim to become proficient in these languages to enhance my web development and software engineering skills.
 - **Explore New Technologies**: I'm always eager to learn new frameworks and tools that can help me build better projects.

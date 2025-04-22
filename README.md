@@ -13,7 +13,7 @@ Hi there! I'm **Kaelan Brose**, a high school sophomore with a passion for progr
 ## Projects
 
 ### Project 1: Basketball Stat Tracker
-- **Description**: This is a application to keep track of stats and to automate the graphics process for sports broadcasts
+- **Description**: This is an application to keep track of stats and to automate the graphics process for sports broadcasts
 - **Technologies Used**: Python
 - **Link**: [Stat Tracker](https://github.com/KalnBrs/Sports-Stat-Tracker)
 

@@ -1,6 +1,6 @@
 # Welcome to My Project
 
-Hi there! I'm **Kaelan Brose**, a high school sophomore with a passion for programming. I've been coding since 2019 and have experience with **Python, HTML, CSS**, and I'm currently learning **Java** and **JavaScript**. This project is a showcase of my skills and what I've learned so far.
+Hi there! I'm **Kaelan Brose**, a high school junior with a passion for programming. I've been coding since 2019 and have experience with **Python, HTML, CSS, Java, React, NodeJS, ExpressJS, PostgreSQL**, and I'm currently learning Full Stack Development. This project is a showcase of my skills and what I've learned so far.
 
 ## Skills and Technologies
 
@@ -26,6 +26,11 @@ Hi there! I'm **Kaelan Brose**, a high school sophomore with a passion for progr
 - **Description**: This is a simple to do app that has add, remove, edit, and search functionality, all saved in local storage
 - **Technologies Used**: HTML, CSS, JavaScript
 - **Link**: [To Do App](https://github.com/KalnBrs/To-Do-App)
+
+### Project 4: Blog Post
+- **Description**: This is a repo that contains the frontend and backend for a blog post website
+- **Technologies Used**: React, NodeJS, ExpressJS, PostgreSql
+- **Link**: [Blog Project](https://github.com/KalnBrs/blog-project)
 
 ## Learning Goals
 - **Master Java and JavaScript**: I aim to become proficient in these languages to enhance my web development and software engineering skills.

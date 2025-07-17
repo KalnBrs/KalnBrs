@@ -15,7 +15,7 @@ Hi there! I'm **Kaelan Brose**, a high school junior with a passion for programm
 ### Current Project: Football Stat Tracker
 - **Description**: This is a stat tracker to help collect stats for football broadcasts that don't have automatic statistics
 - **Technologies Used**: React, NodeJS, ExpressJS, PostgreSQL
-- **Link**: [Football Stat Tracker]([https://github.com/KalnBrs/football-stat-tracker])
+- **Link**: [Football Stat Tracker](https://github.com/KalnBrs/football-stat-tracker)
   
 ### Project 1: Blog Post
 - **Description**: This is a repo that contains the frontend and backend for a blog post website

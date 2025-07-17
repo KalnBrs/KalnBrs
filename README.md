@@ -12,25 +12,25 @@ Hi there! I'm **Kaelan Brose**, a high school junior with a passion for programm
 
 ## Projects
 
-### Project 1: Basketball Stat Tracker
-- **Description**: This is an application to keep track of stats and to automate the graphics process for sports broadcasts
-- **Technologies Used**: Python
-- **Link**: [Stat Tracker](https://github.com/KalnBrs/Sports-Stat-Tracker)
+### Project 1: Blog Post
+- **Description**: This is a repo that contains the frontend and backend for a blog post website
+- **Technologies Used**: React, NodeJS, ExpressJS, PostgreSQL
+- **Link**: [Blog Project](https://github.com/KalnBrs/blog-project)
 
-### Project 2: Buisness Website
-- **Description**: This is a website built from a design from a SkillsUSA Competition
-- **Technologies Used**: HTML, CSS
-- **Link**: [Buisness Website](https://github.com/KalnBrs/Skills-USA-Project)
-
-### Project 3: To Do App
+### Project 2: To Do App
 - **Description**: This is a simple to do app that has add, remove, edit, and search functionality, all saved in local storage
 - **Technologies Used**: HTML, CSS, JavaScript
 - **Link**: [To Do App](https://github.com/KalnBrs/To-Do-App)
 
-### Project 4: Blog Post
-- **Description**: This is a repo that contains the frontend and backend for a blog post website
-- **Technologies Used**: React, NodeJS, ExpressJS, PostgreSql
-- **Link**: [Blog Project](https://github.com/KalnBrs/blog-project)
+### Project 3: Basketball Stat Tracker
+- **Description**: This is an application to keep track of stats and to automate the graphics process for sports broadcasts
+- **Technologies Used**: Python
+- **Link**: [Stat Tracker](https://github.com/KalnBrs/Sports-Stat-Tracker)
+
+### Project 4: Buisness Website
+- **Description**: This is a website built from a design from a SkillsUSA Competition
+- **Technologies Used**: HTML, CSS
+- **Link**: [Buisness Website](https://github.com/KalnBrs/Skills-USA-Project)
 
 ## Learning Goals
 - **Master Java and JavaScript**: I aim to become proficient in these languages to enhance my web development and software engineering skills.

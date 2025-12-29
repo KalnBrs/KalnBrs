@@ -29,8 +29,8 @@ Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack
 - **Technologies**: JavaScript, Python, React, CSS
 - **Role**: Frontend development and integration of analysis engine with the user interface
 - **Achievement**: Built from scratch to deployment in 24 hours at MadHacks 2025
-- **Status**: Hackathon project - deployed
-- **Link**: [CVMusic](https://github.com/KalnBrs/CVMusic) | [Live Demo](https://cv-music-flax.vercel.app)
+- **Status**: Hackathon project
+- **Link**: [CVMusic](https://github.com/KalnBrs/CVMusic)
 
 ### SnapStat
 - **Description**: A full-stack web application for tracking football statistics in real-time during broadcasts.  Features live stat tracking, player management, and game analytics.  Actively maintained and used in production.

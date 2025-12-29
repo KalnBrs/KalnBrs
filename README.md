@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack development, automation, and developer tooling. I've been coding since 2019, building real-world applications with modern web technologies and creating productivity tools that solve practical problems.
+Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack development, automation, and developer tooling. I've been coding since 2019, building real-world applications with modern technologies and contributing to meaningful projects.
 
 ## Skills and Technologies
 
@@ -24,14 +24,22 @@ Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack
 
 ## Featured Projects
 
+### CVMusic (Chord Sight)
+- **Description**: A computer vision-powered music application built during MadHacks 2025. Completed with a team of 3 developers in 24 hours. The application analyzes hand gestures to generate and play musical chords in real-time.
+- **Technologies**: JavaScript, Python, React, CSS
+- **Role**: Frontend development and integration of analysis engine with the user interface
+- **Achievement**: Built from scratch to deployment in 24 hours at MadHacks 2025
+- **Status**: Hackathon project - deployed
+- **Link**: [CVMusic](https://github.com/KalnBrs/CVMusic) | [Live Demo](https://cv-music-flax.vercel.app)
+
 ### SnapStat
-- **Description**: A full-stack web application for tracking football statistics in real-time during broadcasts.  Features live stat tracking, player management, and game analytics.  Actively maintained with periodic updates and new versions. 
+- **Description**: A full-stack web application for tracking football statistics in real-time during broadcasts.  Features live stat tracking, player management, and game analytics.  Actively maintained and used in production.
 - **Technologies**: React, Node.js, Express, PostgreSQL, JavaScript
 - **Status**: Production ready - actively maintained
 - **Link**: [SnapStat](https://github.com/KalnBrs/football-stat-tracker)
 
 ### CLITemplate - Project Scaffolding Tool
-- **Description**: A .NET CLI tool for managing and scaffolding project templates. Includes template management, file/folder scaffolding, and global installation support.  Designed for rapid project setup and consistent code structure.
+- **Description**: A .NET CLI tool for managing and scaffolding project templates. Includes template management, file/folder scaffolding, and global installation support.  Designed for rapid project initialization.
 - **Technologies**: C#, .NET 9, Shell scripting
 - **Features**: Global tool installation, custom template management, metadata-driven scaffolding
 - **Status**: Active development

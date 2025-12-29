@@ -67,9 +67,6 @@ Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack
 - **Open Source Contribution**: Contributing to open-source projects and collaborating with the developer community
 - **Mobile Development**:  Exploring React Native for cross-platform mobile applications
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=KalnBrs&show_icons=true&theme=radical)
-
 ## Contact Me
 Feel free to reach out if you have questions, want to collaborate, or just want to chat about development! 
 

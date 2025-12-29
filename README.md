@@ -1,48 +1,77 @@
-# Welcome to My Project
+# Welcome to My GitHub Profile
 
-Hi there! I'm **Kaelan Brose**, a high school junior with a passion for programming. I've been coding since 2019 and have experience with **Python, HTML, CSS, Java, React, NodeJS, ExpressJS, PostgreSQL**, and I'm currently learning Full Stack Development. This project is a showcase of my skills and what I've learned so far.
+Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack development, automation, and developer tooling. I've been coding since 2019, building real-world applications with modern web technologies and creating productivity tools that solve practical problems.
 
 ## Skills and Technologies
 
-### Programming Languages
-- **Python**: My first programming language and the one I'm most comfortable with. I've used it for various projects, including automation scripts, web scraping, and simple web applications.
-- **HTML & CSS**: I use these to create and style web pages. I enjoy designing user-friendly and visually appealing websites.
-- **Java**: Currently learning this language to understand object-oriented programming better and to create more complex applications.
-- **JavaScript**: Learning this language to enhance my web development skills, making websites more interactive and dynamic.
+### Core Technologies
+- **JavaScript/React**:  Building interactive, modern web applications with component-based architecture
+- **Node.js & Express**: Creating RESTful APIs and backend services
+- **PostgreSQL**: Database design and management for data-driven applications
+- **C#/.NET**: CLI tool development and system programming
+- **Python**:  Automation, scripting, and desktop applications
+- **HTML & CSS**: Crafting responsive, user-friendly interfaces
+- **Version Control**: Git and GitHub for collaborative development
 
-## Projects
+### Development Experience
+- Full-stack web development (MERN/PERN stack)
+- CLI tool design and global package distribution
+- RESTful API design and implementation
+- Database modeling and queries
+- Frontend state management
+- Deployment and production hosting (Vercel)
+- UI/UX design implementation
 
-### Current Project: SnapStat
-- **Description**: This is a stat tracker to help collect stats for football broadcasts that don't have automatic statistics
-- **Technologies Used**: React, NodeJS, ExpressJS, PostgreSQL
+## Featured Projects
+
+### SnapStat
+- **Description**: A full-stack web application for tracking football statistics in real-time during broadcasts.  Features live stat tracking, player management, and game analytics.  Actively maintained with periodic updates and new versions. 
+- **Technologies**: React, Node.js, Express, PostgreSQL, JavaScript
+- **Status**: Production ready - actively maintained
 - **Link**: [SnapStat](https://github.com/KalnBrs/football-stat-tracker)
-  
-### Project 1: Blog Post
-- **Description**: This is a repo that contains the frontend and backend for a blog post website
-- **Technologies Used**: React, NodeJS, ExpressJS, PostgreSQL
+
+### CLITemplate - Project Scaffolding Tool
+- **Description**: A .NET CLI tool for managing and scaffolding project templates. Includes template management, file/folder scaffolding, and global installation support.  Designed for rapid project setup and consistent code structure.
+- **Technologies**: C#, .NET 9, Shell scripting
+- **Features**: Global tool installation, custom template management, metadata-driven scaffolding
+- **Status**: Active development
+- **Link**: [CLITemplate](https://github.com/KalnBrs/CLITemplate)
+
+### Blog Platform
+- **Description**: A complete blogging platform with user authentication, post creation, editing, and deletion functionality
+- **Technologies**: React, Node. js, Express, PostgreSQL
+- **Features**: Full CRUD operations, user management, responsive design
 - **Link**: [Blog Project](https://github.com/KalnBrs/blog-project)
 
-### Project 2: To Do App
-- **Description**: This is a simple to do app that has add, remove, edit, and search functionality, all saved in local storage
-- **Technologies Used**: HTML, CSS, JavaScript
-- **Link**: [To Do App](https://github.com/KalnBrs/To-Do-App)
+### To-Do App
+- **Description**: A feature-rich task management application with add, edit, delete, and search functionality using local storage persistence
+- **Technologies**: HTML, CSS, JavaScript
+- **Features**: Local storage integration, real-time search, task editing
+- **Link**: [To-Do App](https://github.com/KalnBrs/To-Do-App)
 
-### Project 3: Basketball Stat Tracker
-- **Description**: This is an application to keep track of stats and to automate the graphics process for sports broadcasts
-- **Technologies Used**: Python
-- **Link**: [Stat Tracker](https://github.com/KalnBrs/Sports-Stat-Tracker)
+### Basketball Stat Tracker
+- **Description**: A Python desktop application for tracking basketball statistics and automating graphics generation for sports broadcasts
+- **Technologies**: Python, tkinter
+- **Link**: [Sports Stat Tracker](https://github.com/KalnBrs/Sports-Stat-Tracker)
 
-### Project 4: Buisness Website
-- **Description**: This is a website built from a design from a SkillsUSA Competition
-- **Technologies Used**: HTML, CSS
-- **Link**: [Buisness Website](https://github.com/KalnBrs/Skills-USA-Project)
+### SkillsUSA Competition Website
+- **Description**: A professional business website built from a design specification for a SkillsUSA web design competition
+- **Technologies**: HTML, CSS
+- **Link**: [SkillsUSA Project](https://github.com/KalnBrs/Skills-USA-Project)
 
 ## Learning Goals
-- **Master Java and JavaScript**: I aim to become proficient in these languages to enhance my web development and software engineering skills.
-- **Explore New Technologies**: I'm always eager to learn new frameworks and tools that can help me build better projects.
-- **Contribute to Open Source**: I want to start contributing to open-source projects to collaborate with other developers and learn from their experiences.
+- **Advanced Full-Stack Development**:  Deepening expertise in React patterns, state management, and API optimization
+- **Systems Programming**: Expanding C#/.NET knowledge for backend services and tooling
+- **Cloud Technologies**: Exploring AWS, Docker, and modern deployment strategies
+- **TypeScript**: Adding type safety to JavaScript projects
+- **Open Source Contribution**: Contributing to open-source projects and collaborating with the developer community
+- **Mobile Development**:  Exploring React Native for cross-platform mobile applications
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api? username=KalnBrs&show_icons=true&theme=radical)
 
 ## Contact Me
-Feel free to reach out to me if you have any questions, suggestions, or just want to chat about programming!
+Feel free to reach out if you have questions, want to collaborate, or just want to chat about development! 
 
 - **Email**: [kaelanbrs@gmail.com](mailto:kaelanbrs@gmail.com)
+- **GitHub**: [@KalnBrs](https://github.com/KalnBrs)

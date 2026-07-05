@@ -38,13 +38,6 @@ Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack
 - **Status**: Production ready - actively maintained
 - **Link**: [SnapStat](https://github.com/KalnBrs/football-stat-tracker)
 
-### CLITemplate - Project Scaffolding Tool
-- **Description**: A .NET CLI tool for managing and scaffolding project templates. Includes template management, file/folder scaffolding, and global installation support.  Designed for rapid project initialization.
-- **Technologies**: C#, .NET 9, Shell scripting
-- **Features**: Global tool installation, custom template management, metadata-driven scaffolding
-- **Status**: Active development
-- **Link**: [CLITemplate](https://github.com/KalnBrs/CLITemplate)
-
 ### Blog Platform
 - **Description**: A complete blogging platform with user authentication, post creation, editing, and deletion functionality
 - **Technologies**: React, Node. js, Express, PostgreSQL

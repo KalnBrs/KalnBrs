@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile
 
-Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack development, automation, and developer tooling. I've been coding since 2019, building real-world applications with modern technologies and contributing to meaningful projects.
+Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack development, automation, and emerging technologies. I've been coding since 2022, building real-world applications with modern technologies and contributing to meaningful projects.
 
 ## Skills and Technologies
 
 ### Core Technologies
-- **JavaScript/React**:  Building interactive, modern web applications with component-based architecture
+- **JavaScript/React**: Building interactive, modern web applications with component-based architecture
 - **Node.js & Express**: Creating RESTful APIs and backend services
 - **PostgreSQL**: Database design and management for data-driven applications
 - **C#/.NET**: CLI tool development and system programming

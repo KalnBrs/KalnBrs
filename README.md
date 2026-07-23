@@ -44,21 +44,10 @@ Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack
 - **Features**: Full CRUD operations, user management, responsive design
 - **Link**: [Blog Project](https://github.com/KalnBrs/blog-project)
 
-### To-Do App
-- **Description**: A feature-rich task management application with add, edit, delete, and search functionality using local storage persistence
-- **Technologies**: HTML, CSS, JavaScript
-- **Features**: Local storage integration, real-time search, task editing
-- **Link**: [To-Do App](https://github.com/KalnBrs/To-Do-App)
-
 ### Basketball Stat Tracker
 - **Description**: A Python desktop application for tracking basketball statistics and automating graphics generation for sports broadcasts
 - **Technologies**: Python, tkinter
 - **Link**: [Sports Stat Tracker](https://github.com/KalnBrs/Sports-Stat-Tracker)
-
-### SkillsUSA Competition Website
-- **Description**: A professional business website built from a design specification for a SkillsUSA web design competition
-- **Technologies**: HTML, CSS
-- **Link**: [SkillsUSA Project](https://github.com/KalnBrs/Skills-USA-Project)
 
 ## Learning Goals
 - **Advanced Full-Stack Development**:  Deepening expertise in React patterns, state management, and API optimization

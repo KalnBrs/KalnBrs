@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi there! I'm **Kaelan Brose**, a high school junior passionate about full-stack development, automation, and emerging technologies. I've been coding since 2022, building real-world applications with modern technologies and contributing to meaningful projects.
+Hi there! I'm **Kaelan Brose**, a high school senior passionate about full-stack development, automation, and emerging technologies. I've been coding since 2022, building real-world applications with modern technologies and contributing to meaningful projects.
 
 ## Skills and Technologies
 
